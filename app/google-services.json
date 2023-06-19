@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "893704669023",
+    "project_id": "market-app-64f12",
+    "storage_bucket": "market-app-64f12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893704669023:android:e2f916463742ea00b818ea",
+        "android_client_info": {
+          "package_name": "uz.gita.magazineapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893704669023-4c2m9r40otjmirbig19i21r5s29fgibe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCotcMGYAZ85NUUcbFj5zGxfd496FeN6v4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893704669023-4c2m9r40otjmirbig19i21r5s29fgibe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -21,7 +21,6 @@ interface SignInScreenContract {
 
     interface ViewModel {
         val uiState: StateFlow<UiState>
-
         fun onEventDispatcher(intent: Intent)
 
     }

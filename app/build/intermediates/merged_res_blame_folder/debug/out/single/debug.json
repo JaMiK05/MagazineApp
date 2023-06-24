@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-merged_res-58:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-main-60:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-merged_res-58:\\drawable_profile.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-main-60:\\drawable\\profile.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-merged_res-58:\\drawable_marketlogo.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-main-60:\\drawable\\marketlogo.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-merged_res-58:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-main-60:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-merged_res-58:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-main-60:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-merged_res-58:\\drawable_my_product.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-main-60:\\drawable\\my_product.png"
+    },
+    {
+        "merged": "uz.gita.magazineapp-merged_res-58:/drawable_empty_list.png.flat",
+        "source": "uz.gita.magazineapp-main-60:/drawable/empty_list.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-merged_res-58:\\drawable_menu.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-main-60:\\drawable\\menu.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-merged_res-58:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-main-60:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-merged_res-58:\\drawable_back_icon.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-main-60:\\drawable\\back_icon.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-merged_res-58:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-main-60:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-merged_res-58:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-main-60:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-merged_res-58:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-main-60:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-merged_res-58:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-main-60:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-merged_res-58:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-main-60:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-merged_res-58:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-main-60:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-merged_res-58:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-main-60:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-merged_res-58:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-main-60:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-merged_res-58:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-main-60:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-merged_res-58:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-main-60:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-merged_res-58:\\drawable_dairy_products.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-main-60:\\drawable\\dairy_products.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-merged_res-58:\\drawable_three_line.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-main-60:\\drawable\\three_line.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-merged_res-58:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-main-60:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-merged_res-58:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-main-60:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-merged_res-58:\\drawable_imageplaceholder.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio\\daemon\\8.0\\uz.gita.magazineapp-main-60:\\drawable\\imageplaceholder.png"
+    }
+]

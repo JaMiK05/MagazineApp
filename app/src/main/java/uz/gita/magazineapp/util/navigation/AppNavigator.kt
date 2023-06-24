@@ -11,7 +11,6 @@ typealias AppScreen = AndroidScreen
 interface AppNavigator {
 
     suspend fun stackLog()
-
     suspend fun back()
     suspend fun backUntilRoot()
     suspend fun backAll()

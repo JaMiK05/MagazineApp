@@ -54,8 +54,6 @@ class HomePage : Tab {
                     index = 0u, title, icon
                 )
             }
-
-
         }
 
     @Composable
